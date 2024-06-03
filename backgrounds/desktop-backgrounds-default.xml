@@ -3,8 +3,8 @@
 <wallpapers>
     <wallpaper deleted="false">
         <name>CentOS Stream 10 Default</name>
-        <filename>/usr/share/backgrounds/day.webp</filename>
-        <filename-dark>/usr/share/backgrounds/night.webp</filename-dark>
+        <filename>/usr/share/backgrounds/centos-stream-10-day.png</filename>
+        <filename-dark>/usr/share/backgrounds/centos-stream-10-night.png</filename-dark>
         <options>zoom</options>
         <shade_type>solid</shade_type>
         <pcolor>#a14f8c</pcolor>
