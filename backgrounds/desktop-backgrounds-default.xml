@@ -2,18 +2,17 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
     <wallpaper deleted="false">
-        <name>CentOS Default</name>
-        <filename>/usr/share/backgrounds/centos-default-0.xml</filename>
+        <name>CentOS Stream 10 Default</name>
+        <filename>/usr/share/backgrounds/day.webp</filename>
+        <filename-dark>/usr/share/backgrounds/night.webp</filename-dark>
         <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#a14f8c</pcolor>
+        <scolor>#200735</scolor>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>CentOS Default</name>
-        <filename>/usr/share/backgrounds/centos-default-1.xml</filename>
-        <options>zoom</options>
-    </wallpaper>
-    <wallpaper deleted="false">
-        <name>CentOS Default</name>
-        <filename>/usr/share/backgrounds/centos-default-2.xml</filename>
+        <name>CentOS Stream 10 Time of Day</name>
+        <filename>/usr/share/backgrounds/centos-stream-10.xml</filename>
         <options>zoom</options>
     </wallpaper>
 </wallpapers>
